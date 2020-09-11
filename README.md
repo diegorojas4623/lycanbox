@@ -1,2 +1,2 @@
 # lycanbox
-pagina administradora del box Lycan Bob
+pagina administradora del box Lycan Box
